@@ -36,12 +36,12 @@ Uma Prova de Conceito (PoC) para detecção de anomalias e adulterações em bin
  
 
 ## 📋 Sumário
--   [Fundamentos Teóricos](#fundamentos-teóricos)
--   [Projeto](#projeto)
-  -   [Sobre](#sobre) 
-  -   [Como instalar](#como-instalar) 
-  -   [Resultados](#resultados) 
-  -   [Links úteis](#links-úteis)
+- [Fundamentos Teóricos](#fundamentos-teóricos)
+- [Projeto](#projeto)
+  - [Sobre](#sobre) 
+  - [Como instalar](#como-instalar) 
+  - [Resultados](#resultados) 
+  - [Links úteis](#links-úteis)
 
 ## 🧠 Fundamentos Teóricos
 

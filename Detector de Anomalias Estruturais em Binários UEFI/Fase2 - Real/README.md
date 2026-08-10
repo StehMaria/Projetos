@@ -37,12 +37,12 @@ Enquanto a Fase 1 focou na simulação matemática para validar a viabilidade do
  
 
 ## 📋 Sumário
--   [Fundamentos Teóricos](#fundamentos-teóricos)
--   [Projeto](#projeto)
-  -   [Sobre](#sobre) 
-  -   [Como instalar](#como-instalar) 
-  -   [Resultados](#resultados) 
-  -   [Links úteis](#links-úteis)
+- [Fundamentos Teóricos](#fundamentos-teóricos)
+- [Projeto](#projeto)
+  - [Sobre](#sobre) 
+  - [Como instalar](#como-instalar) 
+  - [Resultados](#resultados) 
+  - [Links úteis](#links-úteis)
 
 ## 🧠 Fundamentos Teóricos
 
