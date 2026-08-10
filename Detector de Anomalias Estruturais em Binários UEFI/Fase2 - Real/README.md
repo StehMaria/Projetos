@@ -1,8 +1,8 @@
 <div align=right style=display:inline-block>
 <img width=10% src=http://ForTheBadge.com/images/badges/built-with-love.svg>
 <img width=8% src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
-<img width=12% src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white>
-<img width=15% src=https://img.shields.io/badge/Firmware_Security-2E86C1?style=for-the-badge>
+<img width=11% src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white>
+<img width=13% src=https://img.shields.io/badge/Firmware_Security-2E86C1?style=for-the-badge>
 </div>
 
 <h1 align=center>Detector de Anomalias Estruturais em Binários UEFI 🛡️</h1>
