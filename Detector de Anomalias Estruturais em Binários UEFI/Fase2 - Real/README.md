@@ -117,7 +117,7 @@ $ pip install -r requirements.txt
 ``` bash
 python src/feature_extractor.py
 python src/train_model.py
-python scr/validation.py
+python scr/evaluation.py
 ```
 
 ### Resultados
